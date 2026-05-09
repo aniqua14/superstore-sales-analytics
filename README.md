@@ -50,14 +50,16 @@ Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Power BI
 | Power BI | Interactive business dashboard |
 
 ## 📂 Project Structure
+
+```
 superstore-sales-analytics/
 │
 ├── data/
-│   ├── SampleSuperstore.csv          ← Raw dataset
-│   └── superstore_powerbi.csv        ← Enriched dataset for Power BI
+│   ├── SampleSuperstore.csv
+│   └── superstore_powerbi.csv
 │
 ├── notebooks/
-│   └── 01_data_exploration.ipynb     ← Full analysis notebook
+│   └── 01_data_exploration.ipynb
 │
 ├── visuals/
 │   ├── 01_regional_analysis.png
@@ -69,7 +71,8 @@ superstore-sales-analytics/
 │   ├── 07_confusion_matrix.png
 │   └── 08_feature_importance.png
 │
-└── superstore_dashboard.pbix         ← Power BI Dashboard
+└── superstore_dashboard.pbix
+```
 
 
 ## 📸 Dashboard Preview
